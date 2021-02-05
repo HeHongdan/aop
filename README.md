@@ -1,3 +1,7 @@
+## 切面、HOOK埋点两套方案
+https://juejin.cn/post/6868148850302844941
+<br>
+
 ## 插件使用
 1. 在项目根目录的build.gradle里依赖AspectJX
   ```
